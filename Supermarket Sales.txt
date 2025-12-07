@@ -1,0 +1,2 @@
+InvoiceID,Branch,City,CustomerType,Gender,ProductLine,UnitPrice,Quantity,Tax,Total,Date,Time,Payment,Rating
+100-01,A,CityA,Member,M,Health and beauty,74.69,2,7.469,156.849,1/5/2019,13:08,Cash,9.1
